@@ -11,6 +11,6 @@ mudando imagens, textos, cores. Entretanto, fizemos diversas branches especifica
 -Git e GitHub;
 
 # Integrantes do grupo:
--Augusto Valerio / RM:562185
--Jonas Esteves / RM:564143
--Josue Faria / RM:563819
+-Augusto Valerio /RM:562185;
+-Jonas Esteves / RM:564143;
+-Josue Faria / RM:563819;
